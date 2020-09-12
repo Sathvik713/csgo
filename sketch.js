@@ -37,6 +37,6 @@ function draw() {
 
     } 
 
-}
-  drawSprites();
 
+  drawSprites();
+  }
